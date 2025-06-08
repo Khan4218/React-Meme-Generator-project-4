@@ -35,7 +35,7 @@ A fun and interactive project to generate memes with random images and custom te
 - Generating and displaying random images
 - Leveraging `useEffect` and `useRef`
 
-<!-- 🔗 **Live Demo**: [akbar-react-project-4.netlify.app](https://akbar-project-4-meme-generator.netlify.app/) -->
+🔗 **Live Demo**: [akbar-react-project-4.netlify.app](https://react-meme-generator-akbar.netlify.app/)
 📂 Folder: `React-project-4`
 
 ---
